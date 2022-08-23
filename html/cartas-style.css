@@ -1,0 +1,21 @@
+.Producto{
+    display: inline-block;
+}
+
+header{
+    margin-bottom: 1%;
+}
+
+.opciones{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.feet{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
